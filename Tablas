@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <table>
+        <h3>Ejercicio 02/2 - Tablas en HTML</h3>
+        <table>
+        <tr>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Año de publicación</th>
+            <th>Enlace a Amazon</th>
+           
+        </tr>
+        <tr>
+            <td>cien años de soledad</td>
+            <td>Gabriel García Márquez</td>
+            <td>2009</td>
+            <td><a href="https://www.amazon.com/-/es/Gabriel-Garc%C3%ADa-M%C3%A1rquez/dp/0307474720">Cien años de soledad</a></td>
+        </tr>
+        <tr>
+            <tr>
+                <td>los Cuadernos de don Rigoberto</td>
+                <td>Mario Vargas LLosa</td>
+                <td>2013</td>
+                <td><a href="https://www.amazon.com/cuadernos-Rigoberto-MARIO-VARGAS-LLOSA/dp/8420415693">Los cuadernos de Don Rigoberto</a></td>
+            </tr>
+        </tr>
+        <tr>
+            <tr>
+                <td>La metamorfosis</td>
+                <td>Franz Kafka</td>
+                <td>2012</td>
+                <td><a href="https://www.amazon.com/cuadernos-Rigoberto-MARIO-VARGAS-LLOSA/dp/8420415693">La metamorfosis</a></td>
+            </tr>
+        </tr>
+    </table>
+</body>
+</html>
