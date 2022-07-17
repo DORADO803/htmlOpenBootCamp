@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <p>Este es mi primer comentario</p>
+    <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+    <div>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=WpYeekQkAdc&list=RDWpYeekQkAdc&start_radio=1">The Black Eyed Peas - Where Is The Love? (Official Music Video)</a></li>
+            <li><a href="https://www.youtube.com/watch?v=31crA53Dgu0&list=RDWpYeekQkAdc&index=3">Sia - Cheap Thrills (Performance Edit)</a></li>
+            <li><a href="https://www.youtube.com/watch?v=XFkzRNyygfk&list=RDWpYeekQkAdc&index=7">Radiohead - Creep</a></li>
+        </ul>
+    </div>
+
+</body>
+</html>
