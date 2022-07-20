@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio Multimedia</title> 
+    <h1>Aprendiendo a utilizar imagenes</h1>
+    <img src="DragonBound.png" alt="logo dragonbound" width="900" height="900">
+
+    <h1>Aprendiendo a utilizar los videos</h1> 
+    <video controls autoplay  muted loop>
+        <source src="halcón.mp4" type="video/mp4">
+    </video>
+
+    <h1>Aprendiendo a utilizar audio</h1> 
+    <audio controls autoplay  muted loop>
+        <source src="Te Conozco.mp3" type="audio/mp3">
+    </audio>
+</head>
+<body>
+    
+</body>
+</html>
