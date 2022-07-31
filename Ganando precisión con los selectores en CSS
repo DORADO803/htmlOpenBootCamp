@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ganando precisión con los selectores en CSS </title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <h1 id="titulo" class="encabezado">Lista de la compra</h1> 
+    <ol>
+        <li id="elemento-1">Monitor</li>
+        <li id="elemento-2">Laptop</li>
+        <li id="elemento-3">Impresora</li>
+        <li id="elemento-4">Router</li>
+        <li id="elemento-5">Tablet</li>
+    </ol>
+    <ol>
+        <li id="elemento-1">Super Mercado Metro</li>
+        <li id="elemento-2">Plaza vea</li>
+        <li id="elemento-3">Mega Plaza</li>
+        <li id="elemento-4">Plaza Norte</li>
+        <li id="elemento-5">Tottus</li>
+    </ol>
+</body>
+</html>
+
+=================================================================================
+/*Estilo css*/
+
+#elemento-1 {
+    color:red;
+    font-size: 2rem;
+}
