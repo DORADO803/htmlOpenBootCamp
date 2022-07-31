@@ -10,7 +10,7 @@
 <body>
     <h1 id="titulo" class="encabezado">Lista de la compra</h1> 
     <ol>
-        <li id="elemento-1">Monitor</li>
+        <li id="elemento-1" class="elemento">Monitor</li>
         <li id="elemento-2">Laptop</li>
         <li id="elemento-3">Impresora</li>
         <li id="elemento-4">Router</li>
@@ -31,5 +31,8 @@
 
 #elemento-1 {
     color:red;
-    font-size: 2rem;
+   
+}
+.elemento {
+    font-size:2rem;
 }
